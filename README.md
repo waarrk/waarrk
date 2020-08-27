@@ -1,4 +1,7 @@
-### Hi there 👋
+[![age](https://img.shields.io/badge/age-17-red)](LICENSE)
+[![school](https://img.shields.io/badge/school-kosen-green)](LICENSE)
+[![place](https://img.shields.io/badge/place-nagaoka-yellow)](LICENSE)
+[![Twitter](https://img.shields.io/badge/twitter-waarrk-blue)](https://twitter.com/waarrk)
 
 <!--
 **waarrk/waarrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

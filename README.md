@@ -10,6 +10,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waarrk" />
 </a>
 
+<a class="twitter-timeline" href="https://twitter.com/waarrk?ref_src=twsrc%5Etfw">Tweets by waarrk</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!--
 **waarrk/waarrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

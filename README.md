@@ -1,7 +1,5 @@
 ### Info
 [![age](https://img.shields.io/badge/age-21-red)](LICENSE)
-[![school](https://img.shields.io/badge/school-kosen-green)](LICENSE)
-[![place](https://img.shields.io/badge/place-nagaoka-yellow)](LICENSE)
 [![Twitter](https://img.shields.io/badge/twitter-waarrk-blue)](https://twitter.com/waarrk)
 
 ### Stats
